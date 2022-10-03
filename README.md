@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/338b24b5-0c9c-4c7f-9c61-589f40985a94/deploy-status)](https://app.netlify.com/sites/cryptozealot/deploys)<br>
 ![example workflow](https://github.com/cryptozealot/cryptozealot.github.io/actions/workflows/pages.yml/badge.svg)<br>
-[![Website status](https://img.shields.io/website-up-down-green-red/https/laborecke.de.svg?label=Website%20status)](https://cryptozealot.github.io)
+[![Website cryptozealot.github.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://cryptozealot.github.io/)
 
 # Code base of [cryptozealot.github.io](https://cryptozealot.github.io/)
 
